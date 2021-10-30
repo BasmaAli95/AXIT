@@ -1,0 +1,519 @@
+body{
+    height: 2000px;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.bg-nav{
+    background-color: black;
+    padding: 1%;
+
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+.AXIT{
+    color: rgb(218, 76, 76);
+    width: 60%;
+    display: inline-block;
+
+}
+.links{
+    width: 40%;
+   float:right;
+  box-sizing: border-box;
+}
+.a{
+    margin: 2%;
+    text-decoration: none;
+color: white;
+}
+.bg-image{
+    background-image: url(photo.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+    
+}
+
+.overlay{
+    background-color:rgb(0 0 0 / 56%);
+    color: white;
+    height: 100%;
+
+}
+.left-side1{
+    padding-top: 5%;
+    width: 50%;
+    display: inline-block;
+}
+.right-side1{
+    width:30% ;
+    padding-top: 7%;
+    height: 350px;
+    float: right;
+}
+
+.bg-white-hr{
+
+    background-color: white;
+    width: 10%;
+    margin-top: 20px;
+     
+    
+}
+.font2{
+    
+    font-size: 22px;
+}
+.font1{
+    font-size: 100px;
+}
+.p2{
+    color: white;
+    margin-top: 30px;
+}
+.btn{
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    padding: 1% 3%;
+    margin-top: 30px;
+    font-size: 22px;
+    cursor: pointer;
+}
+h3{
+    text-align: center;
+    background-color: rgb(221, 216, 216);
+height: 50px;
+padding-top: 15px;
+font-size: 20px;
+color: black;
+}
+  .right-side1 input{
+    border: none;
+    width: 100%;
+    border-bottom: 2px solid;
+    background-color: white;
+    padding: 10px 6px ;
+    box-sizing: border-box;
+    height: 60px;
+}
+.right-side1 button{
+    background-color: orange;
+    width: 100%;
+    border: none;
+    height: 50px;
+    font-size: 20px;
+}
+.side1{
+    width: 35%;
+    padding-top: 5px;
+    display: inline-block;
+}
+.side2{
+    float: right;
+    width: 50%;
+}
+.side2 li{
+    display: inline-block;
+    text-decoration: none;
+    padding-left: 30px;
+    padding-top: 15px;
+    margin: 5px auto;
+    font-size: 40px;
+    
+}
+.side2 a{
+    color: rgb(206, 203, 203);
+
+}
+.hr2{
+    margin-top: 15px;
+    
+}
+.tabs2 div{
+color: white;
+width: 90px;
+height: 90px;
+text-align: center;
+padding-top: 40px;
+box-sizing: border-box;
+margin: 1px;
+}
+.tabs2{
+    width: 25%;
+     margin-top: 20px;
+     
+     float: left;
+}
+.tabs3{
+    width: 40%;
+    float: left;
+    margin-top: 20px;
+
+}
+.tabs4{
+    width: 25%;
+    float: left;
+    margin-top: 50px;
+    padding-left: 35px;
+}
+.tabs{
+    background-color: rgb(241, 233, 233);
+    height: 400px;
+}
+.tabs4 img{
+    width: 260px;
+    padding-top: 10px;
+    padding-left: 40px;
+    
+}
+.red{
+    
+     border-color: rgb(240, 96, 96);
+    width: 10%;
+    margin-top: 20px;
+     
+    
+}
+.img1 img{
+    box-shadow: 6px 9px 15px 1px grey;
+    width: 400px;
+    height:300 px;
+}
+ 
+.img1{
+    float:left;
+    width: 45%;
+    margin-top: 100px;
+}
+.img2{
+    width: 45%;
+    float: left;
+    margin-top: 80px;
+    margin-left: 30px;
+}
+.icon1{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border-color: orangered;
+    color: orangered;
+    background-color: white;
+    padding: 5px;
+    font-size: 20px;
+    border: 3px solid;
+}
+.icon2{
+    
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border-color: orangered;
+    color: orangered;
+    background-color: white;
+padding: 5px;
+font-size: 20px;
+border: 3px solid;
+}
+.icons2  li{
+list-style: none;
+padding-top: 70px;
+
+}
+.icons2{
+    width: 20%;
+    float: left;
+}
+.icons3{
+    width: 75%;
+    float: right;
+    padding-top: 50px;
+}
+.orang{
+    border-color: rgb(253, 7, 7);
+    width: 10%;
+    margin-top: 20px;
+     
+    
+}
+.proimages{
+    
+    width: 25%;
+     margin-top: 40px;
+     
+     float: left;
+}
+.pragraph{
+    
+    width: 40%;
+    float: left;
+    margin-top: 40px;
+
+}
+.pro1{
+    background-color: white;
+    height: 500px;
+}
+.pro2{
+    background-color: rgb(247, 242, 242);
+    height: 350px;
+}
+.proimages img{
+
+    box-shadow: 18px 14px 21px 3px grey;
+    width: 400px;
+    height:300 px;
+    margin-left: 180px;
+    margin-top: 15px;
+}
+.circ{
+    
+    border-color: orangered;
+     width: 7%;
+     margin: 15px auto;
+}
+.circles i{
+    
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border-color: orangered;
+    color: orangered;
+    background-color: white;
+padding: 7px;
+font-size: 20px;
+border: 1px solid;
+margin: 9px auto;
+}
+.circl1{
+    text-align: center;
+    margin-top: 15px;
+}
+.c1{
+    float: left;
+    width: 31%;
+    margin-right: 25px;
+}
+.c2{
+    float: left;
+    width: 31%;
+    margin-right: 25px;
+}
+.c3{
+    float: left;
+    width: 31%;
+    margin-right: 25px;
+}
+.circles{
+    text-align: center;
+    
+}
+.cic{
+    height: 400px;
+    margin-top: 15px;
+}
+.cic2{
+    background-color: rgb(247, 242, 242);
+    height: 600px;
+
+}
+.div1{
+    float: left;
+    width: 31%;
+    text-align: center;
+    margin-top: 40px;
+}
+.div2{
+    float: left;
+    width: 31%;
+    text-align: center;
+margin-left: 30px;
+}
+.div3{
+    margin-top: 40px;
+    width: 31%;
+    float: left;
+    text-align: center;
+    margin-left: 30px;
+}
+.alldiv{
+    margin-top: 40px;
+
+}
+.hr1{
+    color: white;
+    width: 90%;
+    border-color: white;
+    box-sizing: border-box;
+}
+.hr11{
+    
+border-color: orangered;
+width: 98%;
+padding: 2px;
+background-color: orangered;
+}
+.hr20{
+    
+    color: white;
+    width: 90%;
+    border-color: white;
+    
+}
+.p20{
+color: white;
+width: 93%;
+padding: 12px;
+background-color: orangered;
+}
+.hr31{
+    
+border-color: orangered;
+width: 98%;
+padding: 2px;
+background-color: orangered;
+}
+.im{
+    width: 15%;
+    height: 15%;
+    border-radius: 50%;
+    margin-top: 5px;
+}
+
+.aside2{
+    margin-top: 40px;
+
+
+}
+.s1{
+    float: left;
+    width: 30%;
+    
+}
+.s2{
+    float: left;
+    width: 30%;
+margin-left: 35px;
+}
+.s3{
+    width: 30%;
+    float: left;
+
+margin-left: 35px;
+}
+.asid{
+    height: 350px;
+}
+
+.bg-image2{
+    background-image: url(p7.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+    
+}
+
+.overlay{
+    background-color:rgb(0 0 0 / 50%);
+    color: white;
+    height: 100%;
+
+}
+.lay2{
+
+    text-align: center;
+    padding-top: 80px;
+}
+.over3{
+    
+    border-color: white;
+     width: 7%;
+     margin: 15px auto;
+}
+.contact1{
+    padding-top: 50px;
+    text-align: center;
+    
+}
+.contact2 .form2{
+width: 100%;
+}
+.cont-input {/* 
+    display: inline-block;
+    padding-top: 60px;
+    width: 31%;
+    border-bottom: 0px rgb(155, 152, 152) solid;
+    padding: 90px; */
+    
+    display: inline-block;
+    padding-top: 75px;
+    width: 49%;
+   
+}
+.cont-input input{
+    padding-bottom: 30px;
+    margin-right: 20px;
+    width: 100%;
+    border: none;
+    border-bottom: 1px  solid rgb(155, 152, 152);
+    margin-top: 10px;
+}
+.contact2 textarea{
+display: inline-block;
+width: 40%;
+border: none;
+border-bottom: 1px rgb(155, 152, 152) solid;
+margin-bottom: 53px;
+margin-left: 30px;
+box-sizing: border-box;
+margin-top: 90px;
+vertical-align: top;
+resize: none;
+color: rgb(102, 100, 100);
+
+}
+.cont{
+    height: 500px;
+text-align: center;
+}
+footer{
+    background-color: black;
+
+}
+.lastside{
+    text-align: center;
+    color: white;
+    
+    width: 100%;
+height: 80px;
+   margin-bottom: 30px;
+}
+.lastside li{
+    list-style-type: none;
+    display: inline-block;
+    color: white;
+    padding: 20px ;
+    margin: 2px auto;
+}
+.lastside a{
+    color: white;
+}
+.lastside p{
+    margin-bottom: 8px;
+    text-align: center;
+}
+.arrow-down {
+    width: 0; 
+    height: 0; 
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    
+    border-top: 20px solid rgb(211, 210, 210);
+    position: absolute;
+    bottom: -21%;
+    left: 8%;
+  }
